@@ -1,7 +1,7 @@
-package = "nyoba-lua"
+package = "latihan-lua"
 version = "dev-1"
 source = {
-   url = "*** please add URL for source tarball, zip or repository here ***"
+   url = "git+https://github.com/mzaini30/latihan-lua"
 }
 description = {
    homepage = "*** please enter a project homepage ***",
